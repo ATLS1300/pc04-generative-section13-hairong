@@ -43,8 +43,8 @@ If you borrow code from the internet, please cite it with a comment ABOVE the co
 
 ### You may not submit code that's more than 20% borrowed code (by # of lines)
 
-## Extra Credit (XC)
-- include a pattern generated from **another student's pseudocode** (a "pseudo pattern")
+## Extra Credit (grads must complete)
+- 2pts: include a pattern generated from **another student's pseudocode** (a "pseudo pattern")
 
 ## Submit:
 1. Pseudocode (sketches included) is due by the end of recitation! Late submissions of pseudocode results in 1 pt off the assignment.
