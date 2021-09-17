@@ -31,7 +31,6 @@ Create a piece of generative art. Make the artwork aesthetically and conceptuall
 
 Your code should use:
 - a **short description** of your art at the top of the script (around line 6 of the start code)
-- a pattern generated from **another student's pseudocode** (a "pseudo pattern")
 - at least **two (2) for loops**, with a **comment** describing what the loop does (for loop in pseudo pattern counts!)
 - at least **two (2) Turtle variables** (i.e., give 2 turtles names that describe what they do) (turtle created in pseudo pattern counts!)
 - one (1) implementation of the `random.random()`, `random.randint()`, or `random.choice()` functions 
@@ -43,6 +42,9 @@ If you borrow code from the internet, please cite it with a comment ABOVE the co
 ` # modified from [PASTE URL HERE]`
 
 ### You may not submit code that's more than 20% borrowed code (by # of lines)
+
+## Extra Credit (XC)
+- include a pattern generated from **another student's pseudocode** (a "pseudo pattern")
 
 ## Submit:
 1. Pseudocode (sketches included) is due by the end of recitation! Late submissions of pseudocode results in 1 pt off the assignment.
